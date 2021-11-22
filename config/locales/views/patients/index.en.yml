@@ -1,0 +1,8 @@
+---
+en:
+  patients:
+    index:
+      messages:
+        sucess_create: Patient was successfully created.
+        sucess_update: Patient was successfully updated.
+        success_destroy: Patient was successfully destroyed.
